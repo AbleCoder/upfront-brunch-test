@@ -1,0 +1,3 @@
+[submodule "vendor/upfront"]
+	path = vendor/upfront
+	url = https://AbleCoder@github.com/AbleCoder/upfront.git
